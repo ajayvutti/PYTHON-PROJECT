@@ -128,3 +128,4 @@ else:
     print("Nobody won the game")
 print("Thanks For Playing!!")
 print("See you next Time")
+print("Thanks for playing")
